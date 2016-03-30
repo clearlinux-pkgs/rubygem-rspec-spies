@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-spies
 Version  : 2.1.4
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/rspec-spies-2.1.4.gem
 Source0  : https://rubygems.org/downloads/rspec-spies-2.1.4.gem
 Summary  : No detailed summary available
@@ -66,35 +66,25 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/rspec-spies-2.1.4.gem
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/Object/args_message-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/Object/cdesc-Object.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/Object/message_received-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/Object/reset-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/Object/times_message-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/RSpec/Mocks/cdesc-Mocks.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/RSpec/cdesc-RSpec.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-spies-2.1.4/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/.document
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/Appraisals
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/Gemfile.lock
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/VERSION
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_11.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_11.gemfile.lock
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_12.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_12.gemfile.lock
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_13.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_13.gemfile.lock
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/lib/rspec-spies.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/rspec-spies.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/spec/rspec-spies_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/spec/spec.opts
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-spies-2.1.4/spec/spec_helper.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/rspec-spies-2.1.4.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/rspec-spies-2.1.4.gem
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/.document
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/Appraisals
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/Gemfile.lock
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/VERSION
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_11.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_11.gemfile.lock
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_12.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_12.gemfile.lock
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_13.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/gemfiles/rspec_2_13.gemfile.lock
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/lib/rspec-spies.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/rspec-spies.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/spec/rspec-spies_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/spec/spec.opts
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-spies-2.1.4/spec/spec_helper.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/rspec-spies-2.1.4.gemspec
